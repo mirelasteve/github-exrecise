@@ -1,1 +1,1 @@
-const card = 'KIA'
+const cars = 'KIA'
