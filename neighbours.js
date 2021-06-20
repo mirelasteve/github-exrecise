@@ -1,0 +1,4 @@
+const neighbours = [
+    'Mat',
+    'Pam'
+]
