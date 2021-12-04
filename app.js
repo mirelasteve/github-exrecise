@@ -1,9 +1,5 @@
 const express = 'express';
 
-const moment = 'moment '
-
-const login = "login"
-
-const eight = 8;
-
-const something = 100;
+const juniorCode = 'junior code'
+const express = 'express';
+const importantCode= 'Very long important code'
