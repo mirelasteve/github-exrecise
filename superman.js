@@ -1,1 +1,1 @@
-const superman = 1
+const superman = 2
